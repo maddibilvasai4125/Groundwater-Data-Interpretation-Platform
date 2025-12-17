@@ -256,7 +256,7 @@ Groundwater-Data-Interpretation-Platform/
 
 ### Problem Statement Details
 
-**PS ID:** [Your PS ID]  
+**PS ID:** RK1114  
 **Category:** Software  
 **Organization:** Central Ground Water Board (CGWB), Ministry of Jal Shakti  
 **Theme:** Water Resource Management
@@ -335,15 +335,9 @@ This project was developed for **Smart India Hackathon 2022** and is available f
 **Bilva Sai Eswar Maddi**
 
 - 🐙 GitHub: [@maddibilvasai4125](https://github.com/maddibilvasai4125)
-- 💼 LinkedIn: [Bilva Sai Eswar Maddi](https://linkedin.com/in/bilvasaieswar)
-- 📧 Email: maddibilvasai4125@gmail.com
-- 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
-
-### Team: Back_Benchers
-- Team Lead: Bilva Sai Eswar Maddi
-- [Add other team members]
-
----
+- 💼 LinkedIn: [Bilva Sai Eswar Maddi](https://www.linkedin.com/in/bilva-sai-eswar-maddi/)
+- 📧 Email: catchbilvasaieswar@gmail.com
+- 🌐 Portfolio: [Your Portfolio](https://bilvasaieswarmaddi.com/)
 
 ## 🙏 Acknowledgments
 
@@ -359,7 +353,7 @@ This project was developed for **Smart India Hackathon 2022** and is available f
 
 Have questions about the project? Want to collaborate?
 
-- 📧 **Email:** maddibilvasai4125@gmail.com
+- 📧 **Email:** catchbilvasaieswar@gmail.com
 - 🐛 **Issues:** [Report a bug](https://github.com/maddibilvasai4125/Groundwater-Data-Interpretation-Platform/issues)
 - 💬 **Discussions:** [Join the conversation](https://github.com/maddibilvasai4125/Groundwater-Data-Interpretation-Platform/discussions)
 
@@ -381,8 +375,6 @@ Have questions about the project? Want to collaborate?
 <div align="center">
 
 ### ⭐ Star this repo if you found it helpful!
-
-**Made with 💙 by Team Back_Benchers**
 
 *Contributing to better water resource management in India*
 
