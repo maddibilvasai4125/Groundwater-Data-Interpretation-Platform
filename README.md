@@ -337,7 +337,7 @@ This project was developed for **Smart India Hackathon 2022** and is available f
 - 🐙 GitHub: [@maddibilvasai4125](https://github.com/maddibilvasai4125)
 - 💼 LinkedIn: [Bilva Sai Eswar Maddi](https://www.linkedin.com/in/bilva-sai-eswar-maddi/)
 - 📧 Email: catchbilvasaieswar@gmail.com
-- 🌐 Portfolio: [Your Portfolio](https://bilvasaieswarmaddi.com/)
+- 🌐 Portfolio: [My Portfolio](https://bilvasaieswarmaddi.com/)
 
 ## 🙏 Acknowledgments
 
